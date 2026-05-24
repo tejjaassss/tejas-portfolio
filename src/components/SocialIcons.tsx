@@ -63,12 +63,12 @@ const SocialIcons = () => {
           </a>
         </span>
         <span>
-          <a href="https://www.linkedin.com/in/tejas-natekar-9b958b320/" target="_blank">
+          <a href="https://www.linkedin.com/in/tejas-natekar-31j2004/" target="_blank">
             <FaLinkedinIn />
           </a>
         </span>
       </div>
-      <a className="resume-button" href="https://www.linkedin.com/in/tejas-natekar-9b958b320/" target="_blank" rel="noopener noreferrer">
+      <a className="resume-button" href="https://www.linkedin.com/in/tejas-natekar-31j2004/" target="_blank" rel="noopener noreferrer">
         <HoverLinks text="RESUME" />
         <span>
           <TbNotes />
